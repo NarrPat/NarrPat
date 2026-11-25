@@ -1,0 +1,6 @@
+[submodule "SupportFlow"]
+	path = SupportFlow
+	url = https://github.com/NarrPat/SupportFlow.git
+[submodule "DataPilot"]
+	path = DataPilot
+	url = https://github.com/NarrPat/DataPilot.git
